@@ -1,0 +1,19 @@
+{
+  "name": "blahblah",
+  "version": "0.1.0",
+  "description": "random lists, notes, and goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenka491/blahblah.git"
+  },
+  "author": "Shane Connor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenka491/blahblah/issues"
+  },
+  "homepage": "https://github.com/tenka491/blahblah#readme"
+}
