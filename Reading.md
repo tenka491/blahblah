@@ -9,3 +9,14 @@ I will try and keep this as up-to-date as possible but you can check out my [Goo
 ## Nonfiction
 
 ## Fiction
+
+
+### Goals
+Read one non-fiction book a month or 12 this year
+* [X] One
+* [] Two
+* [] Three
+* [] Four
+* [] Five
+* [] Six
+* [] Seven
