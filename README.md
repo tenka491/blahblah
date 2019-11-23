@@ -2,7 +2,7 @@
 
 Most common `cli` packages I use:
 
-```
+```bash
 yarn
 npm-name
 np
@@ -14,17 +14,23 @@ gatsby-cli
 gridsome
 eslint
 ```
+
 ____
+
 ## cmds I use a lot
-```
+
+```bash
 code .
 subl .
 
 git checkout -
 ```
+
 ____
+
 ## tools I like
-```
+
+```bash
 vs code, I didn't always like this
 
 Sublime Text
