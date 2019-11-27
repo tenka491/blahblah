@@ -1,6 +1,6 @@
 {
   "name": "blahblah",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "random lists, notes, and goals",
   "main": "index.js",
   "scripts": {
