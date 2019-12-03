@@ -26,6 +26,14 @@ subl .
 git checkout -
 ```
 
+## useful cmds
+
+```javascript
+// useful for switching from HTTPS to SSH or visa versa
+
+git remote set-url <remote-name> <link>
+```
+
 ____
 
 ## tools I like
