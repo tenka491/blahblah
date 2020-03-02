@@ -39,5 +39,16 @@
 * Revisions (3/5)
 * Castlevania (3/5)
 * Gurren Lagann (3/5)
+* Black Clover Season 1 (3/5)
+* My Hero Academia (5/5)
+* Bakuman (4/5)
+* High School of the Dead (4/5)
+* Sword Art Online - Alicization (4/5)
+* Yu Yu Hakusho (4/5)
+* GTO (Great Teacher Onizuka) (5/5)
+* Slam Dunk (4/5)
+* Beck (Mongolian Chop Squad) (4/5)
+* Big Wind up (3/5)
+* DNA^2 (3/5)
 
 ## Queue

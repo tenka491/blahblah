@@ -16,12 +16,4 @@ I will try and keep this as up-to-date as possible but you can check out my [Goo
 
 ### Goals
 
-Read one non-fiction book a month or 12 this year
-
-* [X] One
-* [X] Two
-* [X] Three
-* [X] Four
-* [X] Five
-* [ ] Six
-* [ ] Seven
+Read one book a month or 12 this year
