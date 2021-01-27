@@ -50,5 +50,8 @@
 * Beck (Mongolian Chop Squad) (4/5)
 * Big Wind up (3/5)
 * DNA^2 (3/5)
+* Yowamushi Pedal (4/5)
+* Yowamushi Pedal Grand Tour (4/5)
+* Appleseed (90's ver) 3/5
 
 ## Queue
