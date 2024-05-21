@@ -44,11 +44,11 @@ vs code, I didn't always like this
 Sublime Text
 Cmder
 Terminal (OSX)
-Evernote
 Keep
 Trello
 BitBucket
 GitHub
+Google Docs
 ```
 
 I will add other lists of things.

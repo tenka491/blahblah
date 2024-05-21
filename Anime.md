@@ -53,6 +53,7 @@
 - The Prince of Tennis (4/5)
 - Record of Grancrest War (3/5)
 - Revisions (3/5)
+- Rise of the Shield Hero Seasons 1 - 3 (4/5)
 - Ruroni Kenshin (4/5)
 - Samurai 7 (3/5)
 - Samurai Champloo (5/5)
