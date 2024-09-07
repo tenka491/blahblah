@@ -53,4 +53,4 @@ Google Docs
 
 I will add other lists of things.
 
-Random musings and some goals for myself. or maybe some links to my BitBucket account and my npm packages. I _DO NOT_ want to use it as a blog
+Random musings and some goals for myself. or maybe some links to my BitBucket account and my npm packages. I _DO NOT_ want to use it as a blog.
